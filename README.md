@@ -1,2 +1,2 @@
-# rtx5080findercc
-This script will find you a RTX 5080 at Canada Computers
+# RTX 5080 Finder (Canada Computers)
+This script will notify you immediately if a RTX 5080 is in stock at Canada Computers
